@@ -1,49 +1,27 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=25c2a0&background=00000000&vCenter=true&width=500&lines=Hello%2C+I'm+EgeAkd;I+Automate+My+Life;Powered+by+AI" alt="Typing SVG" />
-</div>
+# Ege Başar Akdağ
 
-<div align="center">
-  <h3>Code. Automate. Simplify.</h3>
-  <br>
-</div>
+### Practical tools for everyday work.
 
-<p align="center">
-  I am a hobbyist developer focused on creating <b>practical solutions</b> for daily problems. <br> 
-  I leverage <b>Artificial Intelligence</b> to build scripts that organize digital chaos and automate repetitive tasks.
-</p>
+I'm a hobbyist developer interested in Python, automation and making repetitive tasks easier. I use AI-assisted development to turn small ideas into useful, documented tools.
 
-<br>
+## Selected projects
 
-<h3 align="left">⚡ Featured Utilities</h3>
-<p align="left">
-  🔹 <b>File Organizer:</b> An automated script to sort and declutter system files.<br>
-  🔹 <b>Magnet Downloader:</b> A streamlined tool for managing magnet links and downloads.<br>
-  🔹 <b>AI Scripts:</b> Various Python scripts powered by LLMs to enhance productivity.
-</p>
+| Project | What it does | Start here |
+| --- | --- | --- |
+| **[Antaio](https://github.com/EgeAkd/Antaio)** | Organizes files by type with a preview before moving anything and no-overwrite behavior. | [Usage & examples](https://github.com/EgeAkd/Antaio#quick-start) |
+| **[CSV Lens](https://github.com/EgeAkd/csv-lens)** | Inspects CSV files for missing values, duplicate rows and numeric ranges. | [Example report](https://github.com/EgeAkd/csv-lens/blob/main/examples/report.json) |
 
-<br>
+Both tools run locally with Python's standard library. Each repository includes setup instructions, behavior notes, limitations and automated tests.
 
-<h3 align="left">🛠️ Tech Stack & Tools</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_ENGINEERING-10a37f?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/AUTOMATION-FF9900?style=for-the-badge&logo=robotframework&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
+## How I build
 
-<br>
+- Start with a concrete everyday problem.
+- Keep tools small and easy to run.
+- Prefer explicit actions and readable output.
+- Document what works, what is limited and how to test it.
 
-<h3 align="left">📊 GitHub Analytics</h3>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgeAkd&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=EgeAkd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats" />
-</div>
+**Current focus:** Python · command-line tools · file organization · data quality
 
-<br>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Hobbyist-blueviolet?style=flat-square" />
-  <br><br>
-  <sub><i>"The best code is the one that saves you time."</i></sub>
-</div>
+**Merhaba, ben Ege.** Günlük işleri kolaylaştıran küçük Python araçları ve otomasyonlar geliştiriyorum. Yukarıdaki projelerde çalışan kodu, kullanım örneklerini ve testleri bulabilirsin.
